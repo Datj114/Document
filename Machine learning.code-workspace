@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Machine learning",
+			"path": "."
+		},
+		{
+			"name": "python code",
+			"path": "../Users/DELL/python code"
+		},
+		{
+			"path": "D:/download_java/Java"
+		},
+		{
+			"path": "D:/WEB_PRIVATE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB_PRIVATE"
+	}
+}
